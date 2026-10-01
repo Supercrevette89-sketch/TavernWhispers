@@ -1,0 +1,15 @@
+## Interface: 30300
+## Title: |cffffd100Tavern|r|cffff80ffWhispers|r
+## Notes: Private messenger for whispers, styled in WoW Classic colors. Resizable, emoji, item links, spell checker, offline translator (FR/EN/DE/ES/PT/IT/RU).
+## Notes-frFR: Messagerie privée façon messenger aux couleurs de WoW Classic. Redimensionnable, emojis, liens d'objets, correcteur, traducteur hors ligne (FR/EN/DE/ES/PT/IT/RU).
+## Author: Vous
+## Version: 0.12.1
+## SavedVariables: TavernWhispersDB
+
+Dict_fr.lua
+Dict_en.lua
+Lang_data.lua
+Spell.lua
+Translate.lua
+Lang.lua
+TavernWhispers.lua
